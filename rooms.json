@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Business Suite",
+        "description": "A spacious suite with a separate bedroom, a living area, and a work desk, ideal for business travelers.",
+        "price": 350,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Mini-bar",
+            "Work desk"
+        ],
+        "bookedDates": [],
+        "imageUrl": "https://example.com/images/business-suite.jpg",
+        "isAvailable": true
+    },
+    {
+        "name": "Deluxe Pool View Room",
+        "description": "A spacious and luxurious room with a king-sized bed and a private balcony with a beautiful view of the pool.",
+        "price": 220,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Mini-bar"
+        ],
+        "bookedDates": [
+            "2022-11-11",
+            "2022-11-12",
+            "2022-11-13"
+        ],
+        "imageUrl": "https://example.com/images/deluxe-pool-view-room.jpg",
+        "isAvailable": false
+    },
+    {
+        "name": "Garden View Room",
+        "description": "A cozy room with a garden view, featuring a queen-sized bed and all the basic amenities you need for a comfortable stay.",
+        "price": 80,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Coffee maker"
+        ],
+        "bookedDates": [],
+        "imageUrl": "https://example.com/images/garden-view-room.jpg",
+        "isAvailable": true
+    },
+    {
+        "name": "Penthouse Suite",
+        "description": "The ultimate in luxury, this penthouse suite features a spacious bedroom, a living area, a private rooftop terrace with a jacuzzi, and breathtaking views of the city skyline.",
+        "price": 1000,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Mini-bar",
+            "Private rooftop terrace"
+        ],
+        "bookedDates": [
+            "2022-08-01",
+            "2022-08-02",
+            "2022-08-03",
+            "2022-08-04",
+            "2022-08-05"
+        ],
+        "imageUrl": "https://example.com/images/penthouse-suite.jpg",
+        "isAvailable": false
+    },
+    {
+        "name": "Superior Room",
+        "description": "A spacious and comfortable room with a queen-sized bed and a sofa bed, ideal for families or groups.",
+        "price": 150,
+        "capacity": 3,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Coffee maker"
+        ],
+        "bookedDates": [],
+        "imageUrl": "https://example.com/images/superior-room.jpg",
+        "isAvailable": true
+    },
+    {
+        "name": "Deluxe Ocean View Room",
+        "description": "A spacious and luxurious room with a king-sized bed and a private balcony with an unobstructed view of the ocean.",
+        "price": 250,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Mini-bar"
+        ],
+        "bookedDates": [
+            "2022-07-20",
+            "2022-07-21",
+            "2022-07-22",
+            "2022-07-23"
+        ],
+        "imageUrl": "https://example.com/images/deluxe-ocean-view-room.jpg",
+        "isAvailable": false
+    },
+    {
+        "name": "Executive Suite",
+        "description": "A luxurious suite with a separate bedroom, a living area, and a private balcony with a stunning view of the ocean.",
+        "price": 500,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Mini-bar",
+            "Jacuzzi"
+        ],
+        "bookedDates": [
+            "2022-06-15",
+            "2022-06-16"
+        ],
+        "imageUrl": "https://example.com/images/executive-suite.jpg",
+        "isAvailable": false
+    },
+    {
+        "name": "Family Suite",
+        "description": "A spacious suite with two separate bedrooms, each with a king-sized bed, and a shared living area.",
+        "price": 300,
+        "capacity": 4,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TVs",
+            "Kitchenette",
+            "Balcony"
+        ],
+        "bookedDates": [],
+        "imageUrl": "https://example.com/images/family-suite.jpg",
+        "isAvailable": true
+    },
+    {
+        "name": "Standard Room",
+        "description": "A cozy and comfortable room with a queen-sized bed and all the basic amenities you need for a comfortable stay.",
+        "price": 100,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Coffee maker"
+        ],
+        "bookedDates": [
+            "2022-04-10",
+            "2022-04-11"
+        ],
+        "imageUrl": "https://example.com/images/standard-room.jpg",
+        "isAvailable": true
+    },
+    {
+        "name": "Deluxe Room",
+        "description": "A spacious and luxurious room with a king-sized bed and a beautiful view of the city skyline.",
+        "price": 200,
+        "capacity": 2,
+        "amenities": [
+            "Free WiFi",
+            "Air conditioning",
+            "Flat-screen TV",
+            "Mini-bar"
+        ],
+        "bookedDates": [
+            "2022-03-01",
+            "2022-03-02",
+            "2022-03-03"
+        ],
+        "imageUrl": "https://example.com/images/deluxe-room.jpg",
+        "isAvailable": false
+    }
+]
